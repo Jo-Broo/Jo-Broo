@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jo-Broo
 - 👀 I’m interested in coding obviously XD
-- 🌱 I’m currently learning mainly C# specifically Blazor at the moment
+- 🌱 I’m currently learning mainly C# but also Python and Java
 - 💞️ I’m looking to collaborate on ... ...
 - 📫 How to reach me ... i dont know why you would :/
 
