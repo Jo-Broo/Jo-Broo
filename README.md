@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jo-Broo
 - 👀 I’m interested in coding obviously XD
-- 🌱 I’m currently SQL and Database Administration
-- 📫 How to reach me 🫤
+- 🌱 I’m currently learning SQL and Database Administration
 
 <!---
 Jo-Broo/Jo-Broo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
